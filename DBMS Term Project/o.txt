@@ -1,0 +1,34 @@
+//LRU         
+select 
+-- page hits
+-- page faults
+-- time
+
+join
+-- page hits
+-- page faults
+self join
+-- page hits
+-- page faults
+
+//mru 
+select 
+-- page hits
+-- page faults
+join
+-- page hits
+-- page faults
+self join
+-- page hits
+-- page faults
+
+//cloack 
+selct 
+-- page hits
+-- page faults
+join
+-- page hits
+-- page faults
+selefjoin
+-- page hits
+-- page faults
